@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "type": "tennis",
+    "color": "brown"
+  },
+  {
+    "id": 2,
+    "type": "tennis",
+    "color": "red"
+  },
+  {
+    "id": 3,
+    "type": "tennis",
+    "color": "green"
+  },
+  {
+    "id": 4,
+    "type": "tennis",
+    "color": "blue"
+  },
+  {
+    "id": 9,
+    "type": "tennis",
+    "color": "red"
+  }
+]
