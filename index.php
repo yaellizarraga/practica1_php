@@ -9,7 +9,7 @@
     <!-- As a heading -->
     <nav class="navbar navbar-light bg-light">
       <div class="container-fluid">
-        <span class="navbar-brand mb-0 h1">Examen practico ejercicio 1</span>
+        <span class="navbar-brand mb-0 h1">Examen practico ejercicio 1 - PHP</span>
       </div>
     </nav>
     <div class="container">
